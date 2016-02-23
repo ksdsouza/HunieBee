@@ -1,0 +1,82 @@
+Aiko:
+	MDT:Sexuality(Red)
+	LDT:Talent(Blue)
+	LovesGifts:Toys
+	UniqueGifts:Japan
+	LikesGifts:Artist,Garden
+	LikesFood:Fruit,Veggies
+	FavDrink:Sake
+	AlcoholTolerance:High
+Audrey:
+	MDT:Flirtation(Green)
+	LDT:Romance(Orange)
+	LovesGifts:Rave
+	UniqueGifts:Narcotics
+	LikesGifts:Toys,Aquarium
+	LikesFood:Junk Food,Fruit
+	FavDrink:Daiquiri
+	AlcoholTolerance:High
+Kyanna:
+	MDT:Talent(Blue)
+	LDT:Romance(Orange)
+	LovesGifts:Fitness
+	UniqueGifts:Mexico
+	LikesGifts:Yoga,Dancer
+	LikesFood:Veggies,Breakfast
+	FavDrink:Pina Colada
+	AlcoholTolerance:Low
+Jessie:
+	MDT:Sexuality(Red)
+	LDT:Romance(Orange)
+	LovesGifts:Baking
+	UniqueGifts:Festive
+	LikesGifts:Fitness,Dancer
+	LikesFood:Dessert,Junk Food
+	FavDrink:Martini
+	AlcoholTolerance:High
+Tiffany:
+	MDT:Flirtation(Green)
+	LDT:Sexuality(Red)
+	LovesGifts:Academy
+	UniqueGifts:Cheerleader
+	LikesGifts:Rave,Scuba
+	LikesFood:Breakfast,Candy
+	FavDrink:Lemon Drop
+	AlcoholTolerance:Normal
+Beli:
+	MDT:Romance(Orange)
+	LDT:Flirtation(Green)
+	LovesGifts:Yoga
+	UniqueGifts:Nature
+	LikesGifts:Sports,Garden
+	LikesFood:Junk Food,Veggies
+	FavDrink:Wine
+	AlcoholTolerance:Low
+Nikki:
+	MDT:Talent(Blue)
+	LDT:Sexuality(Red)
+	LovesGifts:Artist
+	UniqueGifts:Gaming
+	LikesGifts:Academy,Aquarium
+	LikesFood:Candy,Dessert
+	FavDrink:Beer
+	AlcoholTolerance:Normal
+Lola:
+	MDT:Romance(Orange)
+	LDT:Talent(Blue)
+	LovesGifts:Sports
+	UniqueGifts:Travel
+	LikesGifts:Baking,Scuba
+	LikesFood:Breakfast,Fruit
+	FavDrink:Cocktail
+	AlcoholTolerance:Normal
+Kyu:
+	MDT:Flirtation(Green)
+	LDT:Talent(Blue)
+	LovesGifts:Dancer
+	UniqueGifts:Sex Toys
+	LikesGifts:Rave,Artist
+	LikesFood:Candy,Junk Food
+	FavDrink:Mojito
+	AlcoholTolerance:Normal
+	

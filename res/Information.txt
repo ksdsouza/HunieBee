@@ -1,0 +1,118 @@
+Aiko:
+	Last Name:Yumi
+	Age:28
+	Education:College(6 yr)
+	Height:5'4"
+	Weight:109 lbs
+	Occupation:Professor
+	Cup Size:D
+	Birthday:Nov 9th
+	Hobby:Gambling
+	Fav. Color:Mint Green
+	Fav. Season:Autumn
+	Hangout:Casino
+Audrey:
+	Last Name:Belrose
+	Age:21
+	Education:In College
+	Height:5'2"
+	Weight:102 lbs
+	Occupation:Student
+	Cup Size:B
+	Birthday:Apr 6th
+	Hobby:Shopping
+	Fav. Color:Velvet Red
+	Fav. Season:Spring
+	Hangout:Nightclub
+Kyanna:
+	Last Name:Delrio
+	Age:21
+	Education:Dropout
+	Height:5'6"
+	Weight:118 lbs
+	Occupation:Hairdresser
+	Cup Size:DD
+	Birthday:Mar 16th
+	Hobby:Working Out
+	Fav. Color:Ocean Blue
+	Fav. Season:Summer
+	Hangout:Gym
+Jessie:
+	Last Name:Maye
+	Age:36
+	Education:Dropout
+	Height:5'7"
+	Weight:126 lbs
+	Occupation:Porn Star
+	Cup Size:DD
+	Birthday:Jan 27th
+	Hobby:Drinking
+	Fav. Color:Orange
+	Fav. Season:Winter
+	Hangout:Bar
+Tiffany:
+	Last Name:Maye
+	Age:20
+	Education:In College
+	Height:5'4"
+	Weight:112 lbs
+	Occupation:Student
+	Cup Size:C
+	Birthday:Dec 22nd
+	Hobby:Cheerleading
+	Fav. Color:Milky Pink
+	Fav. Season:Summer
+	Hangout:Campus
+Beli:
+	Last Name:Lapran
+	Age:23
+	Education:College (2 yr)
+	Height:5'11"
+	Weight:132 lbs
+	Occupation:Yoga Teacher
+	Cup Size:D
+	Birthday:Jun 25th
+	Hobby:Meditation
+	Fav. Color:Lilac Purple
+	Fav. Season:Autumn
+	Hangout:Park
+Nikki:
+	Last Name:Ann-Marie
+	Age:18
+	Education:High School Graduate
+	Height:5'0"
+	Weight:104 lbs
+	Occupation:Barista
+	Cup Size:C
+	Birthday:May 13th
+	Hobby:Gaming
+	Fav. Color:Beige Cream
+	Fav. Season:Winter
+	Hangout:Home
+Lola:
+	Last Name:Rembrite
+	Age:24
+	Education:College (4 yr)
+	Height:5'7"
+	Weight:122 lbs
+	Occupation:Flight Attendent
+	Cup Size:D
+	Birthday:February 23rd
+	Hobby:Tennis
+	Fav. Color:Baby Blue
+	Fav. Season:Spring
+	Hangout:Cafe
+Kyu:
+	Last Name:Sugardust
+	Age:384
+	Homeworld:Sky Garden
+	Height:5'4"
+	Weight:110 lbs
+	Occupation:Love Fairy
+	Cup Size:C
+	Birthday:Aug 3rd
+	Hobby:Porn
+	Fav. Color:Hot Pink
+	Fav. Season:Summer
+	Hangout:Bedroom
+	
